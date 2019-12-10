@@ -18,7 +18,7 @@
 /******************************************************/
 
 using namespace std;
-
+/*BISHOY__MAGDY*/
 /********************define***************************/
 #define ll 				long long
 #define ld				long double
