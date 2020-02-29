@@ -47,13 +47,6 @@ int dcmp(double x, double y) {	return fabs(x-y) <= EPS ? 0 : x < y ? -1 : 1;	}
 ll lcm(ll a,ll b){
 return (a*b)/__gcd(a,b);
 }
-
-
-
-
-
-
-
 /**************************Bisho_O*****************************************/
 int main() {
 
