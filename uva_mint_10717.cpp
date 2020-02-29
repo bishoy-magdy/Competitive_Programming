@@ -48,22 +48,7 @@ ll lcm(ll a,ll b){
 return (a*b)/__gcd(a,b);
 }
 
-ll so(ll a,ll b){
 
-if(a>=b){return a;}
-else
-    return b;
-
-}
-
-
-ll so2(ll a,ll b){
-
-if(a<=b){return a;}
-else
-    return b;
-
-}
 
 
 
