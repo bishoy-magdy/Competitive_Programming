@@ -57,6 +57,7 @@ int dcmp(double x, double y) {	return fabs(x-y) <= EPS ? 0 : x < y ? -1 : 1;	}
 int main() {
 
 fast();
+/*                     //////////////one solution
 int arr[101]={0};
 int last_odd=0;
 for(int i=1;i<=100;i++){
@@ -73,6 +74,7 @@ while(t--){
 
 int a,b;
 cin>>a>>b;
+/*
 int last_odd_a,last_odd_b;
 last_odd_a=(a-2);
 last_odd_b=(b-2);
@@ -100,6 +102,35 @@ cout<<"Case "<<X<<": "<<arr[max(a,b)]-arr[min(last_odd_a,last_odd_b)]<<'\n';
 }
 
 X++;
+
+*/
+/*********************proof*******(second and fast solution :) )****************/
+
+///----first we need know the sum odd from 1--to--n
+///----the odd number:
+///----1 3 5 7  9  11
+///sum 1 4 9 16 25 ...   and so on
+///dif1  3 5  7  9  ...  and so on     <<<---liner pattren
+///dif2    2  2  2  .... and so on     <<---Quadratic pattren Done stop
+///the eq (a*n^2+b*n+c=0) 2a=Q_patreen 2a=2 a=1
+///note eq(a*n^3+bn^2+c*n+d=0) 6a=3diffrent
+///and let t1=1,t2=4,t3=9 and from res b=0,c=0
+///then  the eq= n*n
+
+/****************************Bisho_O***********************************/
+int t;
+cin>>t;
+
+for(int i=1;i<=t;i++){
+    int a,b;
+    cin>>a>>b;
+ ///to cal the before last 
+if(a%2!=0){a-=2; a<0?a=0:0; }
+
+int x=a/2+a%2,y=b/2+b%2;
+
+cout<<"Case "<<i<<": "<<(y*y)-(x*x)<<'\n';
+
 }
 
 
