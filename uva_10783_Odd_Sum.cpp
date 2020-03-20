@@ -114,7 +114,7 @@ X++;
 ///dif2    2  2  2  .... and so on     <<---Quadratic pattren Done stop
 ///the eq (a*n^2+b*n+c=0) 2a=Q_patreen 2a=2 a=1
 ///note eq(a*n^3+bn^2+c*n+d=0) 6a=3diffrent
-///and let t1=1,t2=4,t3=9 and from res b=0,c=0
+///and let t1=1,n1,t2=4,n/2,t3=9,n=3 and from res b=0,c=0
 ///then  the eq= n*n
 
 /****************************Bisho_O***********************************/
