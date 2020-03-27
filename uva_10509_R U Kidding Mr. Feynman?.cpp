@@ -58,6 +58,20 @@ int main() {
 
 fast();
 
+/*
+n=(a+dx)^3
+
+n=(a+dx)^2*(a+dx)
+
+n=(a^2+2*a*dx+dx^2)*(a+dx)
+
+n=(a^3+2*a^2*dx+a*dx^2 +a^2*dx and so one......  )
+
+n=a^3+3*a^2*dx+3*a*dx^2+dx^3 and the dx the ranke greater or eqal 2 =0
+
+dx=(n-a^3)/3a^2
+*/
+
 double n;
 
 while(cin>>n && n!=0.00){
