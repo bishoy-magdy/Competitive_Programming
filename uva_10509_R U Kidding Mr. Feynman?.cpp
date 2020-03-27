@@ -67,8 +67,7 @@ n=(a^2+2*a*dx+dx^2)*(a+dx)
 
 n=(a^3+2*a^2*dx+a*dx^2 +a^2*dx and so one......  )
 
-n=a^3+3*a^2*dx+3*a*dx^2+dx^3 and the dx the ranke greater or eqal 2 =0
-
+n=a^3+3*a^2*dx+3*a*dx^2+dx^3 and the dx the ranke greater or eqal 2 =0 -->>> we can ignore this small 
 dx=(n-a^3)/3a^2
 */
 
