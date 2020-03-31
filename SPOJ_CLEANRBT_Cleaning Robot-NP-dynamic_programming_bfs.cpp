@@ -126,7 +126,7 @@ for(int i=0;i<len;i++){
 
 
 }
-///make memoization ont he grid dp[][]
+///make memoization on the grid dp[][]
 return dp[indx][mask]=ans;
 }
 
