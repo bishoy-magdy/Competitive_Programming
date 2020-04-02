@@ -54,8 +54,6 @@ int dy[8]={0,0,-1,1,1,-1,1,-1};
 
 string grid[1000][18278];
 
-bool is_char(char s){ return s>='A' && s<='Z';};
-
 int dp[1000][10000];
 
 int go(int x,int y)
