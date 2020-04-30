@@ -41,8 +41,6 @@ const int flag_max=0x3f3f3f3f;
 const ll OO=1e19+7;
 const double EPS = (1e-7);
 int dcmp(double x, double y) {	return fabs(x-y) <= EPS ? 0 : x < y ? -1 : 1;	}
-
-
 /***********************main_problem****************************/
 
 int arr[10000000+5];

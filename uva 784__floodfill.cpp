@@ -35,6 +35,7 @@ using namespace std;
 
 /***********************function************************/
 
+
 void fast(){ios_base::sync_with_stdio(NULL),cin.tie(0),cout.tie(0);}
 void online_judge(){freopen("input.txt", "r", stdin);freopen("output.txt", "w", stdout);}
 const int flag_max=0x3f3f3f3f;

@@ -18,8 +18,6 @@
 /******************************************************/
 
 using namespace std;
-
-
 /********************define***************************/
 #define ll 				long long
 #define ld				long double

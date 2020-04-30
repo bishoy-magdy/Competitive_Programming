@@ -45,6 +45,7 @@ int dcmp(double x, double y) {	return fabs(x-y) <= EPS ? 0 : x < y ? -1 : 1;	}
 
 
 
+
 class  Disjoint_set{
 
 private:

@@ -34,6 +34,7 @@ q.push(xy);
 distance[xx][xy]=0;
 int cx,cy;
 
+
 while(!q.empty())
 {
 
