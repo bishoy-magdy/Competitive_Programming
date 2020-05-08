@@ -4,14 +4,13 @@ using namespace std;
 class Circular_Queue
 {
 public:
-   int Front,Rear,size_,*arr;    //First-> First Indicator indicates the first elment(remove), Rear-> Indicator indicates the last elment(add)
-
+   int Front,Rear,size_,*arr;    //initialization Front and Rear indicator and pointer type integer
   Circular_Queue(int size_){   //constrain to initialization class with size
 
 
    	this->size_=size_;
 
-   	arr=new int[this->size_];  //init arr with size_
+   	arr=new int[this->size_];  //init array with size_
 
    	Front=Rear=-1;  //no element add
 
