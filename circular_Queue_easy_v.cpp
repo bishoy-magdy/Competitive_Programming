@@ -94,8 +94,8 @@ int len(){  return (Rear==Front && Front==-1)?0:(size_-Front)+(Rear+1) ;} //len 
 
 int main()
 {
-	Circular_Queue cq(5);
-	
+	Circular_Queue cq(//put size );
+	//use the fun in the class
 	
 	return 0;
 }
