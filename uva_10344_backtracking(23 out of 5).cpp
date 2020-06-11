@@ -92,6 +92,7 @@ void solve(int len,int value)
         solve(len+1,value-arr[j]);
     }
     else{
+        //first case 
 
         solve(len+1,arr[j]);
 
