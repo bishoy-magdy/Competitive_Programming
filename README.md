@@ -1,8 +1,8 @@
 # Competitive_Programming
 
-###For my solution on UVa Online Judge and others. Maybe it's not the best solution for these problem set.
+### For my solution on UVa Online Judge and others. Maybe it's not the best solution for these problem set.
 
-#List:
+# List:
 
 ├── uva_10469_To Carry or not to Carry.cpp 
 
