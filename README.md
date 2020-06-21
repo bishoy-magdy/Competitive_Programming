@@ -31,6 +31,8 @@
 ├── uva_The Lottery_10325.cpp<br/>
 ├── uva_193_Graph_Coloring.cpp<br/>
 ├── uva_562_Dividing coins<br/>
-└── uva_10192_Vacation<br/>
+├── uva_10192_Vacation<br/>
+└── uva_497_Strategic Defense Initiative<br/>
+
 
 
