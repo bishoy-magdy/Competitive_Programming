@@ -32,7 +32,7 @@
 ├── uva_193_Graph_Coloring.cpp<br/>
 ├── uva_562_Dividing coins<br/>
 ├── uva_10192_Vacation<br/>
-└── uva_497_Strategic Defense Initiative<br/>
-
-
-
+├──uva_10036_Divisibility<br/>
+├──uva_147_Dollars.cpp<br/>
+├──SRM536-D2-1000.cpp<br/>
+└──uva_497_Strategic Defense Initiative<br/>
