@@ -42,5 +42,7 @@
 ├──uva_10622_Perfect_P-th_Powers.cpp<br/>
 ├──uva_10879_Code_Refactoring.cpp<br/>
 ├──uva_516_Prime_Land.cpp<br/>
+├──uva_11753_Creating_Palindrome.cpp<br/>
+├──SRM149-D1-500.cpp<br/>
 ├──SRM536-D2-1000.cpp<br/>
 └──uva_497_Strategic Defense Initiative<br/>
