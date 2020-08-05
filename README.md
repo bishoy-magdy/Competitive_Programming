@@ -32,17 +32,18 @@
 ├── uva_193_Graph_Coloring.cpp<br/>
 ├── uva_562_Dividing coins<br/>
 ├── uva_10192_Vacation<br/>
-├──uva_10036_Divisibility<br/>
-├──uva_147_Dollars.cpp<br/>
-├──uva_10739_String_to_Palindrome.cpp<br/>
-├──uva_10699_Count_the_factors.cpp<br/>
-├──uva_583_Prime_Factors.cpp<br/>
-├──uva_382_Perfection.cpp<br/>
-├──uva_10490_Mr.Azad_and_his_Son!!!!!.cpp<br/>
-├──uva_10622_Perfect_P-th_Powers.cpp<br/>
-├──uva_10879_Code_Refactoring.cpp<br/>
-├──uva_516_Prime_Land.cpp<br/>
-├──uva_11753_Creating_Palindrome.cpp<br/>
-├──SRM149-D1-500.cpp<br/>
-├──SRM536-D2-1000.cpp<br/>
-└──uva_497_Strategic Defense Initiative<br/>
+├── uva_10036_Divisibility<br/>
+├── uva_147_Dollars.cpp<br/>
+├── uva_10739_String_to_Palindrome.cpp<br/>
+├── uva_10699_Count_the_factors.cpp<br/>
+├── uva_583_Prime_Factors.cpp<br/>
+├── uva_382_Perfection.cpp<br/>
+├── uva_10490_Mr.Azad_and_his_Son!!!!!.cpp<br/>
+├── uva_10622_Perfect_P-th_Powers.cpp<br/>
+├── uva_10879_Code_Refactoring.cpp<br/>
+├── uva_516_Prime_Land.cpp<br/>
+├── uva_11753_Creating_Palindrome.cpp<br/>
+├── uva_10617_Again_Palindrome.cpp<br/>
+├── SRM149-D1-500.cpp<br/>
+├── SRM536-D2-1000.cpp<br/>
+└── uva_497_Strategic Defense Initiative<br/>
