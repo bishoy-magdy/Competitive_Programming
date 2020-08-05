@@ -1,6 +1,6 @@
 # Competitive_Programming
 
-### For my solution on UVa Online Judge and others. Maybe it's not the best solution for these problem set :smiley::wink::heart_eyes:.
+### For my solution on UVa Online Judge and others. Maybe it's not the best solution for these problem set. :smiley: :wink: :heart_eyes:
 
 # List:
 
