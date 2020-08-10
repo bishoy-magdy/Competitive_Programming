@@ -3,9 +3,9 @@
 ### For my solution on UVa Online Judge and others. Maybe it's not the best solution for these problem set. :smiley: :wink: :heart_eyes:
 
 # List:
-
 ├── **SPOJ**<br>
-│   └── SPOJ_CLEANRBT_Cleaning-Robot-NP-dp_bfs.cpp<br/>
+│   ├── SPOJ Cleaning Robot.cpp<br>
+│   └── SPOJ CERC07K - Key Task.cpp<br>
 ├── **Topcoder**<br/>
 │   ├── SRM149-D1-500.cpp<br>
 │   └── SRM536-D2-1000.cpp<br>
@@ -48,5 +48,5 @@
     ├── uva_750(8 Queens Chess Problem).cpp<br>
     ├── uva 784__floodfill.cpp<br>
     ├── uva_mint_10717.cpp<br>
-    ├──uva_10003_Cutting_Sticks.cpp<br>
+    ├── uva_10003_Cutting_Sticks.cpp<br>
     └── uva_The Lottery_10325.cpp<br>
