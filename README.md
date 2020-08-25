@@ -53,4 +53,5 @@
     ├── uva_10003_Cutting_Sticks.cpp<br>
     ├── uva_11573_Ocean Currents.cpp<br>
     ├── UVa_10139_Factovisors.cpp<br/>
+    ├── UVa_10685_Nature.cpp<br/>
     └── uva_The Lottery_10325.cpp<br>
