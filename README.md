@@ -54,6 +54,7 @@
     ├── uva_11573_Ocean Currents.cpp<br>
     ├── UVa_10139_Factovisors.cpp<br/>
     ├── UVa_10685_Nature.cpp<br/>
-    ├──  UVa_10790_How Many Points of Intersection?.cpp<br/>
+    ├── UVa_10790_How Many Points of Intersection?.cpp<br/>
     ├── UVa_10056_What is the Probability ?.cpp<br/>
+    ├── UVa_10819_Trouble of 13-Dots.cpp<br/>
     └── uva_The Lottery_10325.cpp<br>
