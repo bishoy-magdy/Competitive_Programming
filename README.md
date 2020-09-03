@@ -57,4 +57,5 @@
     ├── UVa_10790_How Many Points of Intersection?.cpp<br/>
     ├── UVa_10056_What is the Probability ?.cpp<br/>
     ├── UVa_10819_Trouble of 13-Dots.cpp<br/>
+    ├── UVa_127_"Accordian" Patience.cpp<br/>
     └── uva_The Lottery_10325.cpp<br>
