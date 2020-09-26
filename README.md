@@ -7,6 +7,7 @@
 │   └── Sherlock and Probability.cpp<br>
 ├── **SPOJ**<br>
 │   ├── SPOJ Cleaning Robot.cpp<br>
+│   ├── SPOJ SHOP.cpp<br>
 │   └── SPOJ CERC07K - Key Task.cpp<br>
 ├── **Topcoder**<br/>
 │   ├── SRM149-D1-500.cpp<br>
