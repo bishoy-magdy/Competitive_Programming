@@ -66,4 +66,5 @@
     ├── UVa_10462_ Is There A Second Way Left?.cpp<br/>
     ├── UVa_10986_Sending email.cpp<br/>
     ├── UVa_294_Divisors.cpp<br>
+    ├── UVa_11404_Palindromic Subsequence.cpp<br>
     └── uva_The Lottery_10325.cpp<br>
