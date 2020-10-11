@@ -132,6 +132,113 @@ string Pick_Leave(int i, int j){
 return dp[i][j]=compare(s1,s2);
 }
 
+
+
+/*--------------------------- OR-------------------
+
+
+string compare(string s1, string s2)
+{
+
+
+    if(s1.size()>s2.size())return s1;
+
+    else if(s2.size()>s1.size())return s2;
+
+    else
+    {
+        if(s1<=s2)return s1;
+        else
+            return s2;
+    }
+
+
+}
+string s;
+int dp[1000][1000];
+string dp2[1000][1000];
+//avoid initialization string array
+bool flag[1000][1000];
+int solve(int i, int j)
+{
+
+
+    if(i==j)
+        return 1;
+
+    if(s[i]==s[j] && (i+1)==j)
+        return 2;
+
+    if(dp[i][j]!=-1)return dp[i][j];
+    if(s[i]==s[j])
+        return dp[i][j]=2+solve(i+1,j-1);
+
+    int ch1=solve(i+1,j);
+    int ch2=solve(i,j-1);
+
+    return dp[i][j]=max(ch1,ch2);
+}
+
+string trace(int i,int j)
+{
+
+
+    if(i==j)
+    {
+        string flag="";
+        flag+=s[i];
+        return flag;
+    }
+
+    if(s[i]==s[j] && (i+1)==j)
+    {
+        string flag="";
+        flag+=s[i];
+        flag+=s[i];
+        return flag;
+    }
+
+    if(s[i]==s[j])
+    {
+        return s[i]+trace(i+1,j-1)+s[j];
+
+    }
+    int ch1=solve(i+1,j);
+    int ch2=solve(i,j-1);
+
+    int opt = solve(i,j);
+    if(flag[i][j])return dp2[i][j];
+    if(ch1==opt && ch2==opt)
+    {
+
+        string ch1x= trace(i,j-1);
+        string ch2x=trace(i+1,j);
+        flag[i][j]=1;
+        return dp2[i][j]=compare(ch1x,ch2x);
+
+    }
+
+    if(opt==ch1)
+    {
+        flag[i][j]=1;
+        return dp2[i][j]=trace(i+1,j);
+
+    }
+    if(opt==ch2)
+    {
+        flag[i][j]=1;
+        return  dp2[i][j]=trace(i,j-1);
+    }
+
+}
+
+
+
+
+
+
+*/
+
 /***********𝓢𝓣𝓞𝓟 𝓦𝓗𝓔𝓝 𝓨𝓞𝓤 𝓡𝓔𝓐𝓒𝓗 𝓣𝓗𝓔 𝓒𝓞𝓝𝓒𝓔𝓟𝓣 𝓞𝓕 𝓓𝓞𝓝'𝓣 𝓢𝓣𝓞𝓟******************/
 
 int main()
