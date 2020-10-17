@@ -68,4 +68,5 @@
     ├── UVa_294_Divisors.cpp<br>
     ├── UVa_11404_Palindromic Subsequence.cpp<br>
     ├── UVa_10453_Make Palindrome.cpp<br>
+    ├── UVa_662_Fast Food.cpp<br>
     └── uva_The Lottery_10325.cpp<br>
