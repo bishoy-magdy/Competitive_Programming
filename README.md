@@ -74,4 +74,6 @@
     ├── UVa_10453_Make Palindrome.cpp<br>
     ├── UVa_662_Fast Food.cpp<br>
     ├── Uva_116_Unidirectional TSP.cpp<br>
-    └── uva_The Lottery_10325.cpp<br>
+    ├── UVa_571_Jugs.cpp<br>
+    ├── UVa_872_Ordering.cpp<br>
+    └── UVa_The Lottery_10325.cpp<br>
