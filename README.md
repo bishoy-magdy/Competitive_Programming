@@ -76,4 +76,6 @@
     ├── Uva_116_Unidirectional TSP.cpp<br>
     ├── UVa_571_Jugs.cpp<br>
     ├── UVa_872_Ordering.cpp<br>
+    ├── UVa_10441_Catenyms.cpp<br>
+    ├── UVa_12086_Potentiometers.cpp<br>
     └── UVa_The Lottery_10325.cpp<br>
