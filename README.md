@@ -10,7 +10,12 @@
 ├── **SPOJ**<br>
 │   ├── SPOJ Cleaning Robot.cpp<br>
 │   ├── SPOJ SHOP.cpp<br>
-│   ├── Snowflakes.cpp<br>
+│   ├── SPOJ-TWINSNOW.cpp<br>
+│   ├── SPOJ-KGSS.cpp<br>
+│   ├── SPOJ-KQUERY.cpp<br>
+│   ├── SPOJ-UPDATEIT.cpp<br>
+│   ├── SPOJ-YODANESS.cpp<br>
+│   ├── SPOJ-INCSEQ.cpp<br>
 │   └── SPOJ CERC07K - Key Task.cpp<br>
 ├── **Topcoder**<br/>
 │   ├── SRM149-D1-500.cpp<br>
